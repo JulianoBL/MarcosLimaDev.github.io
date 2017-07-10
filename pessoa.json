@@ -3,6 +3,11 @@
 			"nome" : "José",
 			"idade": "15",
 			"sexo": "masculino"
+		},
+		{
+			"nome" : "Pedro",
+			"idade": "16",
+			"sexo": "masculino"
 		}
 	]
 
